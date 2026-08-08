@@ -21,6 +21,7 @@ This repository serves as part of the Commonwealth's permanent public record.
 
 ### Public Record
 
+- [FBA Identity, Rights & Non-Mischaracterization Notice — August 8, 2026](public-notices/FBA-IDENTITY-RIGHTS-AND-NON-MISCHARACTERIZATION-NOTICE.md)
 - [Founding Public Statement — August 8, 2026](public-reports/FOUNDING-STATEMENT-2026-08-08.md)
 - [Founding Historical Record — August 8, 2026](historical-record/FOUNDING-RECORD-2026-08-08.md)
 - [Public Notice](PUBLIC-NOTICE.md)
@@ -129,6 +130,7 @@ Any coercive governmental judicial authority would require appropriate legal aut
 ├── treasury/
 ├── elections/
 ├── diplomatic-policy/
+├── public-notices/
 ├── public-reports/
 ├── historical-record/
 └── .github/
