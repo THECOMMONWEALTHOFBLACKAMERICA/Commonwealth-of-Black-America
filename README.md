@@ -10,9 +10,12 @@ This repository serves as part of the Commonwealth's permanent public record.
 
 ### Founding Framework
 
+- [Founding Resolution No. 001 — Commencement of Institutional Operations](government/resolutions/CBA-FR-001.md)
+- [Founding Commission](government/founding-commission.md)
+- [Founding Transition Plan](government/operations/founding-transition-plan.md)
 - [Constitution — Vision Edition v2](constitution/CONSTITUTION-VISION-EDITION-v2.md)
 - [Foundational Citizenship Standard](citizenship/FOUNDATIONAL-CITIZENSHIP-STANDARD.md)
-- [Founding Citizen Registry](registry/README.md)
+- [Founding Citizen Registry](registry/index.md)
 - [Founding Citizen No. 000001](registry/CBA-FC-000001.md)
 - [Progressive Ranked Democracy](elections/PROGRESSIVE-RANKED-DEMOCRACY.md)
 - [Founding Reserve and C$ Framework](treasury/FOUNDING-RESERVE-AND-C-DOLLAR.md)
@@ -53,21 +56,15 @@ Citizenship is based upon documented genealogical descent rather than appearance
 
 ## Founding Citizen Registry
 
-The Commonwealth's public citizen registry begins with:
-
 ### Founding Citizen No. 000001
 
 **Dorian Charles Martin-Smith**  
 **Record:** `CBA-FC-000001`  
 **Classification:** Foundational Citizen  
 **Enrollment Date:** August 8, 2026  
-**Status:** Founding Enrollment / Pending Formal Commission Ratification
+**Status:** Provisionally Enrolled — Commission Ratification Pending
 
-Eligibility is supported by genealogical documentation connecting the founding applicant to Black American ancestors present in the United States before 1870.
-
-Sensitive genealogical records, DNA information, addresses, identification documents, signatures, and private family records are not published in this public repository.
-
-See [`registry/CBA-FC-000001.md`](registry/CBA-FC-000001.md).
+Eligibility is supported by genealogical documentation connecting the founding applicant to Black American ancestors present in the United States before 1870. Sensitive evidence remains outside this public repository.
 
 ## Government Framework
 
@@ -76,6 +73,8 @@ The Commonwealth's constitutional framework is organized around three principal 
 - **Executive** — administration, strategy, treasury, economic development, education, technology, infrastructure, public safety programs, foreign affairs, and related executive functions.
 - **People's Assembly** — the representative legislative institution of the Commonwealth.
 - **Constitutional Court** — constitutional interpretation and internal matters assigned by Commonwealth law, including citizenship, elections, and member disputes.
+
+The Founding Commission is a temporary founding-period institution charged with building the administrative and citizen base necessary for the transition to these representative institutions.
 
 ## Progressive Ranked Democracy
 
@@ -111,42 +110,15 @@ The Commonwealth Tribunal may initially provide voluntary mediation, consensual 
 
 Any coercive governmental judicial authority would require appropriate legal authorization.
 
-## Repository Structure
-
-```text
-/
-├── README.md
-├── GOVERNANCE.md
-├── ROADMAP.md
-├── CONTRIBUTING.md
-├── PRIVACY.md
-├── SECURITY.md
-├── CHANGELOG.md
-├── PUBLIC-NOTICE.md
-├── constitution/
-├── governance/
-├── citizenship/
-├── registry/
-├── treasury/
-├── elections/
-├── diplomatic-policy/
-├── public-notices/
-├── public-reports/
-├── historical-record/
-└── .github/
-    ├── pull_request_template.md
-    └── ISSUE_TEMPLATE/
-```
-
 ## Transparency and Historical Record
 
-This repository is intended to preserve a timestamped public record of the Commonwealth's development. Major constitutional revisions, institutional proposals, registry updates, and public reports may be preserved through Git commit history.
+This repository preserves a timestamped public record of the Commonwealth's development. Major constitutional revisions, institutional proposals, registry updates, resolutions, and public reports may be preserved through Git commit history.
 
-Private citizenship evidence and personally identifying information should never be committed to this public repository.
+Private citizenship evidence and personally identifying information must never be committed to this public repository.
 
 ## Founding Reserve
 
-The Commonwealth proposes that each Foundational Citizen contribute an initial **$1 Founding Reserve contribution**. Treasury policy and accounting for the reserve will be maintained separately from the public citizen registry.
+The Commonwealth proposes that each Foundational Citizen contribute an initial **$1 Founding Reserve contribution**. A contribution is recorded as paid only after funds are actually received and entered into the appropriate treasury record.
 
 ## Public Notice
 
