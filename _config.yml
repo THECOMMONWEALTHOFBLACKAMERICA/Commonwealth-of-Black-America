@@ -1,0 +1,11 @@
+title: Commonwealth of Black America
+description: From Our History, We Build Our Future.
+theme: minima
+markdown: kramdown
+header_pages:
+  - index.md
+  - founding-100.md
+  - registry/index.md
+  - ROADMAP.md
+exclude:
+  - .github/
