@@ -8,6 +8,8 @@ This repository serves as part of the Commonwealth's permanent public record.
 
 ## Start Here
 
+### Founding Framework
+
 - [Constitution — Vision Edition v2](constitution/CONSTITUTION-VISION-EDITION-v2.md)
 - [Foundational Citizenship Standard](citizenship/FOUNDATIONAL-CITIZENSHIP-STANDARD.md)
 - [Founding Citizen Registry](registry/README.md)
@@ -16,9 +18,21 @@ This repository serves as part of the Commonwealth's permanent public record.
 - [Founding Reserve and C$ Framework](treasury/FOUNDING-RESERVE-AND-C-DOLLAR.md)
 - [Local Institutions and Municipal Compact Strategy](governance/LOCAL-INSTITUTIONS-AND-MUNICIPAL-COMPACTS.md)
 - [External Engagement and Recognition Policy](diplomatic-policy/EXTERNAL-ENGAGEMENT-AND-RECOGNITION.md)
+
+### Public Record
+
 - [Founding Public Statement — August 8, 2026](public-reports/FOUNDING-STATEMENT-2026-08-08.md)
 - [Founding Historical Record — August 8, 2026](historical-record/FOUNDING-RECORD-2026-08-08.md)
 - [Public Notice](PUBLIC-NOTICE.md)
+- [Changelog](CHANGELOG.md)
+
+### Governance and Participation
+
+- [Repository Governance](GOVERNANCE.md)
+- [Public Roadmap](ROADMAP.md)
+- [Contribution Guidelines](CONTRIBUTING.md)
+- [Privacy Policy](PRIVACY.md)
+- [Security Policy](SECURITY.md)
 
 ## Mission
 
@@ -101,26 +115,25 @@ Any coercive governmental judicial authority would require appropriate legal aut
 ```text
 /
 ├── README.md
+├── GOVERNANCE.md
+├── ROADMAP.md
+├── CONTRIBUTING.md
+├── PRIVACY.md
+├── SECURITY.md
+├── CHANGELOG.md
 ├── PUBLIC-NOTICE.md
 ├── constitution/
-│   └── CONSTITUTION-VISION-EDITION-v2.md
 ├── governance/
-│   └── LOCAL-INSTITUTIONS-AND-MUNICIPAL-COMPACTS.md
 ├── citizenship/
-│   └── FOUNDATIONAL-CITIZENSHIP-STANDARD.md
 ├── registry/
-│   ├── README.md
-│   └── CBA-FC-000001.md
 ├── treasury/
-│   └── FOUNDING-RESERVE-AND-C-DOLLAR.md
 ├── elections/
-│   └── PROGRESSIVE-RANKED-DEMOCRACY.md
 ├── diplomatic-policy/
-│   └── EXTERNAL-ENGAGEMENT-AND-RECOGNITION.md
 ├── public-reports/
-│   └── FOUNDING-STATEMENT-2026-08-08.md
-└── historical-record/
-    └── FOUNDING-RECORD-2026-08-08.md
+├── historical-record/
+└── .github/
+    ├── pull_request_template.md
+    └── ISSUE_TEMPLATE/
 ```
 
 ## Transparency and Historical Record
