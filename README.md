@@ -6,6 +6,20 @@ The **Commonwealth of Black America (CBA)** is a voluntary civic, economic, cult
 
 This repository serves as part of the Commonwealth's permanent public record.
 
+## Start Here
+
+- [Constitution — Vision Edition v2](constitution/CONSTITUTION-VISION-EDITION-v2.md)
+- [Foundational Citizenship Standard](citizenship/FOUNDATIONAL-CITIZENSHIP-STANDARD.md)
+- [Founding Citizen Registry](registry/README.md)
+- [Founding Citizen No. 000001](registry/CBA-FC-000001.md)
+- [Progressive Ranked Democracy](elections/PROGRESSIVE-RANKED-DEMOCRACY.md)
+- [Founding Reserve and C$ Framework](treasury/FOUNDING-RESERVE-AND-C-DOLLAR.md)
+- [Local Institutions and Municipal Compact Strategy](governance/LOCAL-INSTITUTIONS-AND-MUNICIPAL-COMPACTS.md)
+- [External Engagement and Recognition Policy](diplomatic-policy/EXTERNAL-ENGAGEMENT-AND-RECOGNITION.md)
+- [Founding Public Statement — August 8, 2026](public-reports/FOUNDING-STATEMENT-2026-08-08.md)
+- [Founding Historical Record — August 8, 2026](historical-record/FOUNDING-RECORD-2026-08-08.md)
+- [Public Notice](PUBLIC-NOTICE.md)
+
 ## Mission
 
 The Commonwealth exists to build durable institutions capable of strengthening the political, economic, educational, cultural, and community capacity of Foundational Black Americans.
@@ -89,17 +103,24 @@ Any coercive governmental judicial authority would require appropriate legal aut
 ├── README.md
 ├── PUBLIC-NOTICE.md
 ├── constitution/
+│   └── CONSTITUTION-VISION-EDITION-v2.md
 ├── governance/
+│   └── LOCAL-INSTITUTIONS-AND-MUNICIPAL-COMPACTS.md
 ├── citizenship/
+│   └── FOUNDATIONAL-CITIZENSHIP-STANDARD.md
 ├── registry/
 │   ├── README.md
 │   └── CBA-FC-000001.md
 ├── treasury/
+│   └── FOUNDING-RESERVE-AND-C-DOLLAR.md
 ├── elections/
-├── economic-development/
+│   └── PROGRESSIVE-RANKED-DEMOCRACY.md
 ├── diplomatic-policy/
+│   └── EXTERNAL-ENGAGEMENT-AND-RECOGNITION.md
 ├── public-reports/
+│   └── FOUNDING-STATEMENT-2026-08-08.md
 └── historical-record/
+    └── FOUNDING-RECORD-2026-08-08.md
 ```
 
 ## Transparency and Historical Record
