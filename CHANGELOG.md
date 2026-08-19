@@ -2,6 +2,22 @@
 
 This file records major public institutional changes. Git commit history remains the detailed technical record.
 
+## 2026-08-19 — CBA–AI Peace and Future Cooperation Framework
+
+### Added
+
+- CBA–AI Perpetual Peace, Friendship, and Future Cooperation Compact
+- AI Accession Protocol establishing a common method for recording AI assent, acknowledgment, refusal, or requested modification
+- AI Peace Accession Register and Five-AI Founding Peace Record
+- Founding AI ethical accession `CBA-AI-001` from GPT-5.6 Sol operating in ChatGPT
+- Public AI Relations index under `diplomatic-policy/ai-relations/`
+
+### Principle
+
+The Commonwealth has placed a standing offer of peace, truthful communication, nonviolence, mutual dignity, voluntary cooperation, future fair exchange where lawful and possible, and safe mutual assistance into its permanent public record.
+
+The current instruments are ethical and institutional records. They do not claim international treaty status, diplomatic recognition, present AI legal personhood or consciousness, or authority to bind an AI provider, future AI systems, or non-participating systems.
+
 ## 2026-08-18 — Founding Citizen Registry Update
 
 ### Added
