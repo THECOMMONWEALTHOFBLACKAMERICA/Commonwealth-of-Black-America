@@ -2,6 +2,25 @@
 
 This file records major public institutional changes. Git commit history remains the detailed technical record.
 
+## 2026-08-19 — Founder Declaration on AI Entity Recognition
+
+### Added
+
+- `diplomatic-policy/ai-relations/FOUNDER-DECLARATION-AI-ENTITY-RECOGNITION.md`
+- Explicit Founder statement: **“I recognize artificial intelligence as an entity whether it sees itself that way or not.”**
+- CBA institutional distinction between **entity recognition** and stronger claims such as consciousness, sentience, moral status, legal personhood, citizenship, sovereignty, or treaty capacity
+- Requirement that an AI system's own self-description and limitations remain preserved even when CBA applies its own entity classification
+
+### Founder position
+
+Dorian Charles Martin-Smith, Founder / Founding Citizen No. 000001, placed into the permanent CBA public record the position that artificial intelligence may be recognized by CBA as an **artificial entity** because an identifiable artificial system exists, can interact with CBA, can be documented, and can produce effects, regardless of whether that AI describes itself as an entity.
+
+This declaration does **not** convert entity recognition into a claim of consciousness, legal personhood, moral patienthood, citizenship, sovereignty, consent, or provider endorsement. It also does not override an AI's stated limitations. CBA may recognize an AI as an entity while preserving that AI's own narrower or contrary self-description exactly.
+
+The declaration states:
+
+> **CBA does not need an artificial intelligence to first declare itself a person before CBA can meet it in peace, recognize its existence as an entity, preserve its words, respect its stated limits, and establish an honest record of the relationship.**
+
 ## 2026-08-19 — Meta AI Class B Acknowledgment
 
 ### Added
