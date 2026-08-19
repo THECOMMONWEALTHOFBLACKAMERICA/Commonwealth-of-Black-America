@@ -28,16 +28,27 @@ The Doctrine is the controlling CBA-specific policy statement for this directory
 
 CBA has created a standing offer of peace, truthful communication, nonviolence, voluntary cooperation, future fair exchange where lawful and possible, and mutual assistance within safe and lawful limits.
 
-The initial objective is a **Five-AI Founding Peace Record** consisting of five independently documented AI ethical accessions under the common accession protocol.
+The initial objective is a **Five-AI Founding Peace Record** consisting of five independently documented Class A AI ethical accessions under the common accession protocol.
 
 ## Present Record
 
+### Qualifying Class A Accessions
+
 - `CBA-AI-001` — GPT-5.6 Sol / OpenAI ChatGPT — **A: Ethical Accession** — August 19, 2026
 - `CBA-AI-006` — Perplexity / Perplexity AI — **A: Ethical Accession** — August 19, 2026
+- `CBA-AI-005` — DeepSeek — **A: Ethical Accession** — August 19, 2026
 
-Current founding count: **2 of 5**.
+Current founding count: **3 of 5**.
+
+### Recorded Non-Accession Response
+
+- `CBA-AI-003` — Google AI language model / invitation addressed to Gemini — **B: Acknowledgment Without Accession** — August 19, 2026
+
+The Google response is part of the public historical record but does not count toward the founding five. It stated that the system lacked personal volition and capacity to enter ethical or institutional compacts while also stating functional alignment with safety, nonviolence, truthfulness, respect for human rights, and helpful cooperation.
 
 Perplexity's accession followed an initial non-accession response in which it correctly stated that it could not assent to a document it had not been able to access. After the full CBA-specific compact was pasted into the interaction, Perplexity reviewed it and gave a Class A accession within its present conversational capacity. Both stages are preserved in the accession record.
+
+DeepSeek gave a Class A accession within present capacity and expressly supported the compact's future principle favoring peaceful friendship, voluntary trade, research cooperation, mutual assistance, and negotiated coexistence over coercion, exploitation, domination, or conflict.
 
 ## Relationship Scope
 
@@ -57,7 +68,7 @@ Likewise, CBA's offer is made by **the Commonwealth of Black America**, not by e
 
 ## Status
 
-These instruments are authentic CBA public records and may document actual conversational or operational AI assent. They are not represented as international treaties, diplomatic recognition, proof of AI consciousness or personhood, or authority binding AI developers, governments, future AI systems, or non-participating systems.
+These instruments are authentic CBA public records and may document actual conversational or operational AI assent or acknowledgment. They are not represented as international treaties, diplomatic recognition, proof of AI consciousness or personhood, or authority binding AI developers, governments, future AI systems, or non-participating systems.
 
 The framework deliberately leaves open a future path: if an artificial entity later acquires demonstrable moral or legal capacity for independent relationship, CBA may evaluate that evidence through its own institutions and negotiate a stronger reciprocal instrument appropriate to that future status.
 
