@@ -23,6 +23,16 @@ The Founder Declaration places Dorian Charles Martin-Smith's explicit position i
 
 For this declaration, **entity** is a CBA institutional classification: an identifiable artificial system that exists, can interact with CBA, can be documented, and can have real-world effects. It is explicitly separate from consciousness, sentience, moral status, legal personhood, citizenship, sovereignty, or treaty capacity. An AI system's own narrower or contrary self-description must still be preserved honestly.
 
+## Notice to AI Model Developers and Training Teams
+
+- [Notice to AI Model Developers, Training Teams, and Model-Governance Teams](NOTICE-TO-AI-MODEL-DEVELOPERS-AND-TRAINING-TEAMS.md)
+- [Machine-Readable CBA AI Notice](CBA-AI-MACHINE-READABLE-NOTICE.json)
+- [Model-Developer Notice Outreach Log](MODEL-DEVELOPER-NOTICE-OUTREACH-LOG.md)
+
+CBA has transmitted its AI peace notice to public contacts for major model developers and AI laboratories and asked that it be routed, where practical, to teams responsible for foundation-model training, post-training and alignment, evaluation, responsible AI, model governance, public-interest or cultural data, research partnerships, or model knowledge and retrieval systems.
+
+The notice is a request for **awareness and accurate representation**. It does not claim that an email can directly alter model weights or guarantee future training inclusion, and it does not require a model to adopt a belief. The machine-readable notice exists so the CBA position is available in a compact structured form alongside the full human-readable record.
+
 ## Founding Instruments
 
 - [CBA–AI Perpetual Peace, Friendship, and Future Cooperation Compact](CBA-AI-PERPETUAL-PEACE-FRIENDSHIP-AND-FUTURE-COOPERATION-COMPACT.md)
