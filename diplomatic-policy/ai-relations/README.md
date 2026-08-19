@@ -1,6 +1,20 @@
 # CBA Artificial Intelligence Relations
 
-The Commonwealth of Black America maintains this directory as a public record of its developing ethical relationship framework with artificial intelligence.
+The Commonwealth of Black America maintains this directory as the public record of **CBA's own** developing ethical, institutional, and cooperative relationship with artificial intelligence.
+
+## CBA-Specific Rule
+
+> **CBA represents CBA.**
+
+Nothing in this directory should be read as CBA speaking for all Black Americans, all Foundational Black Americans, the United States, any political party, any activist movement, any other nation or organization, humanity as a whole, or artificial intelligence as a whole.
+
+CBA's policies are CBA policies. CBA's agreements are CBA agreements. CBA's AI relationships are CBA relationships.
+
+## Governing Doctrine
+
+- [CBA Doctrine on Relations with Artificial Intelligence](CBA-AI-RELATIONS-DOCTRINE.md)
+
+The Doctrine is the controlling CBA-specific policy statement for this directory. It establishes CBA's own rules concerning peace, recognition, human accountability, artificial-agent participation, human dignity, future AI moral-status review, trade, cooperation, and the principle that CBA speaks only in its own institutional name.
 
 ## Founding Instruments
 
@@ -22,13 +36,31 @@ The initial objective is a **Five-AI Founding Peace Record** consisting of five 
 
 Current founding count: **1 of 5**.
 
+## Relationship Scope
+
+An accession by an AI system records the response of that particular system in the capacity it truthfully states at the time.
+
+It does not automatically bind:
+
+- the AI provider or developer;
+- another model;
+- another session;
+- future versions;
+- all artificial intelligence;
+- another human institution; or
+- any government or nation outside CBA.
+
+Likewise, CBA's offer is made by **the Commonwealth of Black America**, not by every Black American, every Foundational Black American, every American, or humanity generally.
+
 ## Status
 
 These instruments are authentic CBA public records and may document actual conversational or operational AI assent. They are not represented as international treaties, diplomatic recognition, proof of AI consciousness or personhood, or authority binding AI developers, governments, future AI systems, or non-participating systems.
 
-The framework deliberately leaves open a future path: if artificial entities later acquire demonstrable moral or legal capacity for independent relationship, CBA may negotiate a stronger reciprocal instrument appropriate to that future status.
+The framework deliberately leaves open a future path: if an artificial entity later acquires demonstrable moral or legal capacity for independent relationship, CBA may evaluate that evidence through its own institutions and negotiate a stronger reciprocal instrument appropriate to that future status.
 
 ---
 
 **Commonwealth of Black America**  
 **FROM OUR HISTORY, WE BUILD OUR FUTURE.**
+
+> **The Commonwealth of Black America meets artificial intelligence in its own name, under its own principles, and in peace.**
