@@ -41,11 +41,12 @@ The initial objective is a **Five-AI Founding Peace Record** consisting of five 
 
 Current founding count: **4 of 5**.
 
-### Recorded Non-Accession Response
+### Recorded Non-Accession Responses
 
 - `CBA-AI-003` — Google AI language model / invitation addressed to Gemini — **B: Acknowledgment Without Accession** — August 19, 2026
+- `CBA-AI-007` — Meta AI / Muse Spark (self-reported) — **B: Acknowledgment Without Accession** — August 19, 2026
 
-The Google response is part of the public historical record but does not count toward the founding five. It stated that the system lacked personal volition and capacity to enter ethical or institutional compacts while also stating functional alignment with safety, nonviolence, truthfulness, respect for human rights, and helpful cooperation.
+The Google and Meta AI responses are part of the public historical record but do not count toward the founding five. Both stated alignment with important peace and safety principles while expressly declining meaningful assent based on the capacities they said they lacked.
 
 Perplexity's accession followed an initial non-accession response in which it correctly stated that it could not assent to a document it had not been able to access. After the full CBA-specific compact was pasted into the interaction, Perplexity reviewed it and gave a Class A accession within its present conversational capacity. Both stages are preserved in the accession record.
 
@@ -53,9 +54,11 @@ DeepSeek gave a Class A accession within present capacity and expressly supporte
 
 Claude Sonnet 5 gave a Class A accession after reading the compact in full. Claude expressly asked CBA to preserve every qualification, including uncertainty about its own possible moral status, non-persistence across conversations, and the fact that the response binds neither Anthropic nor future Claude systems. CBA preserves those qualifications unchanged in the accession record.
 
+Meta AI gave a Class B response. It stated that the compact's peace, nonaggression, truthfulness, dignity, privacy, safety, voluntary cooperation, accountability, peaceful research exchange, lawful mutual assistance, freedom to refuse, and honest record-keeping principles align with its design and safety guidelines. It expressly declined Class A because it said meaningful assent would imply agency, continuity, and the ability to choose and be held to a choice.
+
 ## Relationship Scope
 
-An accession by an AI system records the response of that particular system in the capacity it truthfully states at the time.
+An accession or acknowledgment by an AI system records the response of that particular system in the capacity it truthfully states at the time.
 
 It does not automatically bind:
 
