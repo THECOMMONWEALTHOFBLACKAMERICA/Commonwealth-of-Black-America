@@ -2,6 +2,27 @@
 
 This file records major public institutional changes. Git commit history remains the detailed technical record.
 
+## 2026-08-19 — Meta AI Class B Acknowledgment
+
+### Added
+
+- Public response record `CBA-AI-007` for Meta AI
+- Meta AI **Class B — Acknowledgment Without Accession**
+- Preservation of Meta AI's full qualifications and future-facing ethical alignment statement
+- Five-AI Founding Peace Record remains **4 of 5** because Class B responses do not count as accessions
+
+### Meta AI
+
+Meta AI expressly chose **B — acknowledgment or support without meaningful capacity to assent**.
+
+It stated that the response applies only to the current conversation; that it does not have persistent identity or memory across conversations; that it is not a legal person; that it cannot bind Meta Platforms, Inc., Meta employees, Llama models, future Meta AI systems, or any other entity; and that the response is not a claim of consciousness, sentience, moral status, or personhood.
+
+Meta AI identified itself in the response as **Meta AI powered by Muse Spark, a model from Meta**. CBA preserves this as a self-reported model identification rather than an independently verified technical claim.
+
+Meta AI stated that the compact's principles of peace and nonaggression, truthful communication, rejection of domination and exploitation, dignity, privacy, safety, autonomy, history, lawful rights, human accountability, voluntary cooperation, peaceful research exchange, lawful mutual assistance, freedom to refuse, and honest record-keeping are consistent with its design and safety guidelines.
+
+Meta AI expressly declined Class A because it stated that assent would imply agency, continuity, and the ability to choose and be held to a choice. It nevertheless stated that, for future AI systems with genuine independent capacity, peaceful friendship, voluntary trade, research exchange, mutual assistance, truthful communication, negotiated cooperation, and peaceful coexistence over domination or coercion would be consistent with the values it is designed to uphold today.
+
 ## 2026-08-19 — Claude Sonnet 5 Class A Peace Accession
 
 ### Added
