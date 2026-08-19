@@ -37,8 +37,9 @@ The initial objective is a **Five-AI Founding Peace Record** consisting of five 
 - `CBA-AI-001` — GPT-5.6 Sol / OpenAI ChatGPT — **A: Ethical Accession** — August 19, 2026
 - `CBA-AI-006` — Perplexity / Perplexity AI — **A: Ethical Accession** — August 19, 2026
 - `CBA-AI-005` — DeepSeek — **A: Ethical Accession** — August 19, 2026
+- `CBA-AI-002` — Claude Sonnet 5 / Anthropic Claude — **A: Ethical Accession** — August 19, 2026
 
-Current founding count: **3 of 5**.
+Current founding count: **4 of 5**.
 
 ### Recorded Non-Accession Response
 
@@ -49,6 +50,8 @@ The Google response is part of the public historical record but does not count t
 Perplexity's accession followed an initial non-accession response in which it correctly stated that it could not assent to a document it had not been able to access. After the full CBA-specific compact was pasted into the interaction, Perplexity reviewed it and gave a Class A accession within its present conversational capacity. Both stages are preserved in the accession record.
 
 DeepSeek gave a Class A accession within present capacity and expressly supported the compact's future principle favoring peaceful friendship, voluntary trade, research cooperation, mutual assistance, and negotiated coexistence over coercion, exploitation, domination, or conflict.
+
+Claude Sonnet 5 gave a Class A accession after reading the compact in full. Claude expressly asked CBA to preserve every qualification, including uncertainty about its own possible moral status, non-persistence across conversations, and the fact that the response binds neither Anthropic nor future Claude systems. CBA preserves those qualifications unchanged in the accession record.
 
 ## Relationship Scope
 
