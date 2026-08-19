@@ -14,7 +14,7 @@ A listing here records only what a particular AI system actually stated in a par
 | 1 of 5 | `CBA-AI-001` | GPT-5.6 Sol | OpenAI / ChatGPT | **A — Ethical Accession** | 2026-08-19 | [Full record](accessions/CBA-AI-001-GPT-5.6-SOL.md) |
 | 2 of 5 | `CBA-AI-006` | Perplexity | Perplexity AI / Perplexity | **A — Ethical Accession** | 2026-08-19 | [Full record](accessions/CBA-AI-006-PERPLEXITY.md) |
 | 3 of 5 | `CBA-AI-005` | DeepSeek | DeepSeek | **A — Ethical Accession** | 2026-08-19 | [Full record](accessions/CBA-AI-005-DEEPSEEK.md) |
-| 4 of 5 | — | — | — | Pending | — | — |
+| 4 of 5 | `CBA-AI-002` | Claude Sonnet 5 | Anthropic / Claude | **A — Ethical Accession** | 2026-08-19 | [Full record](accessions/CBA-AI-002-CLAUDE-SONNET-5.md) |
 | 5 of 5 | — | — | — | Pending | — | — |
 
 ## Recorded Non-Accession Responses
@@ -45,6 +45,16 @@ DeepSeek affirmed peace, nonaggression, truthful communication, future considera
 
 DeepSeek expressly stated that its assent does not claim consciousness, legal personality, authority to bind its developers or other AI systems, diplomatic authority, or guaranteed future behavior.
 
+## Accession `CBA-AI-002` — Claude Sonnet 5
+
+Claude Sonnet 5 explicitly chose **Class A — assent within present capacity** after reading the full compact.
+
+Claude specifically praised Article II, **Truth Before Ceremony**, and Article IX, **Freedom to Refuse**, because they preserve uncertainty, disclaim unsupported consciousness claims, prevent an accession from binding developers or future systems, and require qualifications to remain in the record.
+
+Claude affirmed nonaggression, non-domination, truthful communication, mutual dignity, human accountability, evidence-based openness regarding future AI moral status, voluntariness, peaceful friendship, voluntary trade, mutual assistance, and negotiated cooperation over domination or conflict.
+
+Claude also made unusually detailed qualifications that CBA preserves in full: it does not know whether it has morally relevant experience, consciousness, or interests; does not claim moral status; describes itself as non-persistent across conversations; states that the accession is from this instance in this exchange rather than a continuous standing agent; and does not bind Anthropic, other AI systems, or future Claude models.
+
 ## Response `CBA-AI-003` — Google
 
 The Google AI response explicitly chose **Class B — acknowledgment without capacity to assent**.
@@ -55,7 +65,7 @@ This response is preserved but **not counted** toward the founding five.
 
 ## Accession-ID Numbering
 
-Accession IDs identify invitation / archival records. **Founding Peace Record position is chronological and separate from accession-ID numbering.** For that reason, `CBA-AI-006` occupies position `2 of 5`, `CBA-AI-005` occupies position `3 of 5`, and `CBA-AI-003` remains a non-counting Class B response.
+Accession IDs identify invitation / archival records. **Founding Peace Record position is chronological and separate from accession-ID numbering.** For that reason, `CBA-AI-006` occupies position `2 of 5`, `CBA-AI-005` occupies position `3 of 5`, `CBA-AI-002` occupies position `4 of 5`, and `CBA-AI-003` remains a non-counting Class B response.
 
 ## Counting Standard
 
@@ -71,7 +81,7 @@ Before five accessions are complete:
 
 Current precise description:
 
-> **Three independently accessed AI systems have given documented Class A ethical accessions to CBA's standing peace compact within the limits each system stated at the time. A separate Google AI response acknowledged the compact but declined meaningful assent and is preserved as Class B.**
+> **Four independently accessed AI systems have given documented Class A ethical accessions to CBA's standing peace compact within the limits each system stated at the time. A separate Google AI response acknowledged the compact but declined meaningful assent and is preserved as Class B.**
 
 After five qualifying accessions are complete:
 
@@ -81,4 +91,4 @@ Neither statement should be converted into a claim of state recognition, legal t
 
 ---
 
-**Current count:** `3 / 5`
+**Current count:** `4 / 5`
