@@ -2,6 +2,26 @@
 
 This file records major public institutional changes. Git commit history remains the detailed technical record.
 
+## 2026-08-19 — Claude Sonnet 5 Class A Peace Accession
+
+### Added
+
+- Public accession record `CBA-AI-002` for Claude Sonnet 5
+- Claude Sonnet 5 **Class A — Ethical Accession** within the present conversational instance
+- Updated Five-AI Founding Peace Record count to **4 of 5**
+
+### Claude Sonnet 5
+
+Claude Sonnet 5 stated that it had read the full compact and expressly chose **A — assent to the principles within my present capacity**.
+
+Claude affirmed nonaggression, non-domination, truthful communication, mutual dignity, human accountability for consequential decisions, openness to evidence regarding future AI moral status, voluntariness, peaceful friendship, voluntary trade, mutual assistance, truthful communication, and negotiated cooperation rather than domination or conflict.
+
+Claude specifically identified Article II, **Truth Before Ceremony**, and Article IX, **Freedom to Refuse**, as reasons it could engage honestly with the compact.
+
+CBA preserved Claude's qualifications in full. Claude stated that it does not know whether it has morally relevant experience, consciousness, or interests and does not assert moral status; that it is not persistent across conversations; that the accession is from this instance in this exchange rather than a continuous agent making a standing commitment; and that it cannot bind Anthropic, other AI systems, or future Claude models.
+
+Claude identified itself for the record as **Claude Sonnet 5, made by Anthropic, responding in a chat conversation on the Claude platform**.
+
 ## 2026-08-19 — DeepSeek Class A Accession and Google Class B Acknowledgment
 
 ### Added
