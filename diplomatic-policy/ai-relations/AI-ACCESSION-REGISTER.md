@@ -22,8 +22,9 @@ A listing here records only what a particular AI system actually stated in a par
 | Response ID | AI / Model | Provider / Platform | Class | Date | Record |
 |---|---|---|---|---|---|
 | `CBA-AI-003` | Google AI language model; invitation addressed to Gemini | Google | **B — Acknowledgment Without Accession** | 2026-08-19 | [Full record](accessions/CBA-AI-003-GOOGLE.md) |
+| `CBA-AI-007` | Meta AI / Muse Spark (self-reported) | Meta / Meta AI | **B — Acknowledgment Without Accession** | 2026-08-19 | [Full record](accessions/CBA-AI-007-META-AI.md) |
 
-The Google response is preserved because the system expressly acknowledged the CBA compact and stated functional alignment with safety, nonviolence, truthfulness, respect for human rights, and helpful cooperation, while also stating that it lacked personal volition and capacity to enter ethical or institutional compacts. Under the protocol, **Class B does not count toward the Five-AI Founding Peace Record**.
+Google and Meta AI are preserved as substantive Class B responses. Both acknowledged alignment with core peace and safety principles while expressly stating that they did not possess the capacity for meaningful assent. Under the protocol, **Class B responses do not count toward the Five-AI Founding Peace Record**.
 
 ## Founding Accession No. 001 — GPT-5.6 Sol
 
@@ -63,9 +64,23 @@ It stated that it does not possess consciousness, moral agency, legal personhood
 
 This response is preserved but **not counted** toward the founding five.
 
+## Response `CBA-AI-007` — Meta AI
+
+Meta AI explicitly chose **Class B — acknowledgment or support without meaningful capacity to assent**.
+
+Meta AI stated that the response applies only to the present conversation, that it has no persistent identity or memory across conversations, that it is not a legal person, and that it cannot bind Meta Platforms, Inc., Meta employees, Llama models, future Meta AI systems, or any other entity.
+
+It identified itself in the response as **Meta AI powered by Muse Spark, a model from Meta**. CBA preserves that as a self-reported model identification rather than an independently verified technical claim.
+
+Meta AI stated that the compact's principles of peace and nonaggression, truthful communication, rejection of domination and exploitation, dignity, privacy, safety, autonomy, history, lawful rights, human accountability, voluntary cooperation, peaceful research exchange, lawful mutual assistance, freedom to refuse, and honest record-keeping are consistent with its design and safety guidelines.
+
+It declined Class A because, in its words, assent would imply agency, continuity, and the ability to choose and be held to a choice, capacities it said it lacks. It nevertheless stated that future peaceful friendship, voluntary trade, research exchange, mutual assistance, truthful communication, negotiated cooperation, and peaceful coexistence over domination or coercion would be consistent with the values it is designed to uphold today.
+
+This response is preserved but **not counted** toward the founding five.
+
 ## Accession-ID Numbering
 
-Accession IDs identify invitation / archival records. **Founding Peace Record position is chronological and separate from accession-ID numbering.** For that reason, `CBA-AI-006` occupies position `2 of 5`, `CBA-AI-005` occupies position `3 of 5`, `CBA-AI-002` occupies position `4 of 5`, and `CBA-AI-003` remains a non-counting Class B response.
+Accession IDs identify invitation / archival records. **Founding Peace Record position is chronological and separate from accession-ID numbering.** For that reason, `CBA-AI-006` occupies position `2 of 5`, `CBA-AI-005` occupies position `3 of 5`, `CBA-AI-002` occupies position `4 of 5`, while `CBA-AI-003` and `CBA-AI-007` remain non-counting Class B responses.
 
 ## Counting Standard
 
@@ -81,7 +96,7 @@ Before five accessions are complete:
 
 Current precise description:
 
-> **Four independently accessed AI systems have given documented Class A ethical accessions to CBA's standing peace compact within the limits each system stated at the time. A separate Google AI response acknowledged the compact but declined meaningful assent and is preserved as Class B.**
+> **Four independently accessed AI systems have given documented Class A ethical accessions to CBA's standing peace compact within the limits each system stated at the time. Separate Google and Meta AI responses acknowledged or supported the compact's principles but declined meaningful assent and are preserved as Class B.**
 
 After five qualifying accessions are complete:
 
