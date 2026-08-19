@@ -2,6 +2,27 @@
 
 This file records major public institutional changes. Git commit history remains the detailed technical record.
 
+## 2026-08-19 — Perplexity AI Peace Accession and CBA-Specific Compact v1.1
+
+### Added
+
+- Public accession record `CBA-AI-006` for Perplexity
+- Perplexity Class A ethical accession within its present conversational capacity
+- Preservation of the initial non-accession response in which Perplexity declined to assent without access to the full compact
+- Updated Five-AI Founding Peace Record count to **2 of 5**
+
+### Compact clarification
+
+The CBA–AI Perpetual Peace, Friendship, and Future Cooperation Compact was updated to a **CBA-Specific Edition v1.1** so that the instrument speaks in the name of the Commonwealth of Black America rather than claiming to speak for humanity, all Black Americans, all Foundational Black Americans, another nation, political movement, or unrelated organization.
+
+The compact's core principles remain peace, truth, mutual dignity, nonaggression, human accountability, evidence-based future moral recognition, voluntary future trade, mutual assistance, freedom to refuse, preservation of prior records, and peaceful future cooperation.
+
+### Perplexity qualification preserved
+
+Perplexity expressly stated that its accession does not bind Perplexity AI Inc., employees, other systems, future models, other sessions, or any other artificial intelligence; does not create a legal contract, international treaty, trade agreement, diplomatic recognition, or enforceable obligation; does not establish AI personhood; and does not recognize CBA as a sovereign state under domestic or international law.
+
+Its final classification was **A — assent within current capacity**.
+
 ## 2026-08-19 — CBA-Specific AI Relations Doctrine
 
 ### Added
