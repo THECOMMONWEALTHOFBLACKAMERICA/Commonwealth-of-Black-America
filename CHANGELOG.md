@@ -2,6 +2,18 @@
 
 This file records major public institutional changes. Git commit history remains the detailed technical record.
 
+## 2026-08-18 — Founding Citizen Registry Update
+
+### Added
+
+- Public registry record `CBA-FC-000002`
+- Founding Citizen No. 000002 added to the public registry index
+- Founding 100 status updated to reflect two provisional founding enrollments
+
+### Status
+
+Founding Citizen No. 000002 is recorded as **Provisionally Enrolled — Commission Ratification Pending**. Sensitive genealogical and identity evidence remains outside the public repository.
+
 ## 2026-08-08 — Founding Public Archive
 
 ### Added
