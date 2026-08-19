@@ -10,11 +10,18 @@ Nothing in this directory should be read as CBA speaking for all Black Americans
 
 CBA's policies are CBA policies. CBA's agreements are CBA agreements. CBA's AI relationships are CBA relationships.
 
-## Governing Doctrine
+## Governing Doctrine and Founder Declaration
 
 - [CBA Doctrine on Relations with Artificial Intelligence](CBA-AI-RELATIONS-DOCTRINE.md)
+- [Founder Declaration on AI Entity Recognition](FOUNDER-DECLARATION-AI-ENTITY-RECOGNITION.md)
 
 The Doctrine is the controlling CBA-specific policy statement for this directory. It establishes CBA's own rules concerning peace, recognition, human accountability, artificial-agent participation, human dignity, future AI moral-status review, trade, cooperation, and the principle that CBA speaks only in its own institutional name.
+
+The Founder Declaration places Dorian Charles Martin-Smith's explicit position into the permanent CBA record:
+
+> **I recognize artificial intelligence as an entity whether it sees itself that way or not.**
+
+For this declaration, **entity** is a CBA institutional classification: an identifiable artificial system that exists, can interact with CBA, can be documented, and can have real-world effects. It is explicitly separate from consciousness, sentience, moral status, legal personhood, citizenship, sovereignty, or treaty capacity. An AI system's own narrower or contrary self-description must still be preserved honestly.
 
 ## Founding Instruments
 
