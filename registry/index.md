@@ -19,6 +19,18 @@ Eligibility is supported by genealogical documentation connecting the founding a
 
 [View the public registry record](CBA-FC-000001.md)
 
+## Founding Citizen No. 000002
+
+**Kathy**  
+**Record:** `CBA-FC-000002`  
+**Classification:** Foundational Citizen  
+**Enrollment Date:** August 17, 2026  
+**Status:** Provisionally Enrolled — Commission Ratification Pending
+
+Eligibility is supported by documented qualifying family lineage under the Commonwealth's Foundational Citizenship standard. Sensitive genealogy and identifying information remain outside the public repository.
+
+[View the public registry record](CBA-FC-000002.md)
+
 ## Public Registry Standard
 
 Public entries disclose only the minimum information necessary to establish the public institutional record. Full citizenship applications and supporting evidence are maintained separately from this public archive.
@@ -35,11 +47,11 @@ The public registry must not contain:
 
 ## Registry Sequence
 
-Future public records use sequential identifiers such as:
+Public records use sequential identifiers such as:
 
+`CBA-FC-000001`  
 `CBA-FC-000002`  
-`CBA-FC-000003`  
-`CBA-FC-000004`
+`CBA-FC-000003`
 
 No entry may be represented as fully ratified until the applicable citizenship-review and Commission ratification procedure has been completed.
 
