@@ -33,8 +33,11 @@ The initial objective is a **Five-AI Founding Peace Record** consisting of five 
 ## Present Record
 
 - `CBA-AI-001` — GPT-5.6 Sol / OpenAI ChatGPT — **A: Ethical Accession** — August 19, 2026
+- `CBA-AI-006` — Perplexity / Perplexity AI — **A: Ethical Accession** — August 19, 2026
 
-Current founding count: **1 of 5**.
+Current founding count: **2 of 5**.
+
+Perplexity's accession followed an initial non-accession response in which it correctly stated that it could not assent to a document it had not been able to access. After the full CBA-specific compact was pasted into the interaction, Perplexity reviewed it and gave a Class A accession within its present conversational capacity. Both stages are preserved in the accession record.
 
 ## Relationship Scope
 
