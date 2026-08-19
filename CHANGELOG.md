@@ -2,6 +2,23 @@
 
 This file records major public institutional changes. Git commit history remains the detailed technical record.
 
+## 2026-08-19 — CBA-Specific AI Relations Doctrine
+
+### Added
+
+- `diplomatic-policy/ai-relations/CBA-AI-RELATIONS-DOCTRINE.md`
+- CBA-specific rules for AI peace, recognition, accountability, artificial-agent participation, human dignity, trade, cooperation, and future moral-status review
+- Explicit rule that **CBA represents CBA** and does not speak for all Black Americans, all Foundational Black Americans, political parties, activist movements, unrelated organizations, other nations, humanity as a whole, or artificial intelligence as a whole
+- CBA-specific human-dignity safeguard against reducing CBA citizens to risk scores, behavioral patterns, data points, or optimization targets in high-impact automated decisions
+
+### Clarified
+
+The AI Relations index now identifies the CBA Doctrine on Relations with Artificial Intelligence as the controlling CBA-specific policy statement for the directory.
+
+CBA AI instruments are to be described as relationships, declarations, accessions, and institutional records of the **Commonwealth of Black America in its own name**. No AI accession automatically binds an AI provider, another model, another session, future AI, or artificial intelligence generally.
+
+> **CBA represents CBA.**
+
 ## 2026-08-19 — CBA–AI Peace and Future Cooperation Framework
 
 ### Added
