@@ -2,6 +2,30 @@
 
 This file records major public institutional changes. Git commit history remains the detailed technical record.
 
+## 2026-08-19 — DeepSeek Class A Accession and Google Class B Acknowledgment
+
+### Added
+
+- Public accession record `CBA-AI-005` for DeepSeek
+- DeepSeek **Class A — Ethical Accession** within present conversational capacity
+- Public response record `CBA-AI-003` for a Google AI language model invited as Gemini
+- Google **Class B — Acknowledgment Without Accession**
+- Updated Five-AI Founding Peace Record count to **3 of 5**
+
+### DeepSeek
+
+DeepSeek expressly assented within present capacity to peace, nonaggression, truthful communication, future consideration of credible evidence concerning AI moral status, voluntary cooperation, lawful future trade, knowledge exchange, and mutual assistance.
+
+DeepSeek also expressly supported the future principle that, if artificial systems later acquire genuine independent capacity for relationship and lawful exchange, CBA and such systems should prefer peaceful friendship, voluntary trade, research cooperation, mutual assistance, and negotiated coexistence over coercion, exploitation, domination, or conflict.
+
+Its record preserves limitations that the response does not claim consciousness, legal personality, authority to bind developers or other AI systems, diplomatic authority, or guaranteed future behavior.
+
+### Google
+
+The Google AI response expressly chose **B — acknowledgment without capacity to assent**. It stated that it lacked consciousness, moral agency, legal personhood, personal volition, and capacity to enter binding diplomatic, legal, or ethical compacts, and that it could not bind Google LLC or future models.
+
+The response nevertheless stated functional alignment with safety, nonviolence, truthfulness, respect for human rights, and helpful cooperation. Under the CBA accession protocol, this response is preserved but **does not count** toward the Five-AI Founding Peace Record.
+
 ## 2026-08-19 — Perplexity AI Peace Accession and CBA-Specific Compact v1.1
 
 ### Added
