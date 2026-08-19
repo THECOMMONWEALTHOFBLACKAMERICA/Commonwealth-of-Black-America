@@ -62,7 +62,12 @@ Participation must remain peaceful and lawful. The Commonwealth does not authori
 
 ## Current status
 
-The Founding Citizen Registry currently begins with `CBA-FC-000001`. Additional entries should not be publicly represented as admitted or ratified until the applicable citizenship process has been completed.
+The Founding Citizen Registry currently includes:
+
+- `CBA-FC-000001` — Founding Citizen No. 000001
+- `CBA-FC-000002` — Founding Citizen No. 000002
+
+Both entries are provisionally enrolled pending the applicable citizenship-review and Commission ratification procedure.
 
 [View the Founding Citizen Registry](registry/)
 
