@@ -6,6 +6,16 @@ The **Commonwealth of Black America (CBA)** is a voluntary civic, economic, cult
 
 This repository serves as part of the Commonwealth's permanent public record.
 
+## Official Web Presence
+
+- **Public repository:** https://github.com/THECOMMONWEALTHOFBLACKAMERICA/Commonwealth-of-Black-America
+- **Official website:** a Wix site is published and being prepared for a clean institutional address.
+- **Target public Wix address:** `https://cbaofficial.wixsite.com/commonwealth-of-black-america`
+- **URL status:** vanity-address migration is still pending. The target address above should not be represented as live until Wix confirms the change.
+- **Temporary personal-prefixed Wix URLs are not canonical CBA addresses and should not be circulated as the institution's permanent website.**
+
+For the wider project ecosystem, including T.A.R., CRFTE, THE ARCHIVE, the associated research program, and other related work, see [`PROJECTS.md`](PROJECTS.md).
+
 ## Start Here
 
 ### Founding Framework
