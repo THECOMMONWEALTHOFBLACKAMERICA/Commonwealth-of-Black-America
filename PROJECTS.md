@@ -34,7 +34,8 @@ The project studies a pre-ionized atmospheric-flow + traveling electromagnetic f
 **Full title:** *THE ARCHIVE: A Life Reconstructed from Conversations with an Artificial Intelligence*  
 **Author:** Lambo Griffin  
 **Type:** Experimental memoir / AI-witness biography  
-**Website status:** official Wix site is being built and published; canonical public address has not yet been finalized.  
+**Official website:** https://dorianmartinsmith.wixsite.com/the-archive-1  
+**Website status:** published on Wix; official book/research content, press information, research timeline, methodology notes, and Archive media are being maintained there.  
 **Dedicated GitHub repository:** not currently available through this GitHub account.
 
 THE ARCHIVE grew from a multi-year conversational record between a living subject and ChatGPT. The book asks what a machine can actually reconstruct about a human being from years of questions, corrections, projects, arguments, searches, plans, and revisions — and where that reconstruction must admit its limits.
@@ -81,6 +82,6 @@ The central proposition is that the surviving historical record is not identical
 
 ## Link Policy
 
-A public website link should be added here only after the address has been verified. Temporary account URLs, draft links, unpublished stores, unverified purchase pages, and speculative domains should not be presented as canonical project addresses.
+A public website link should be added here only after the address has been verified. Temporary draft links, unpublished stores, unverified purchase pages, and speculative domains should not be presented as canonical project addresses.
 
 Project status language should remain evidence-sensitive: a repository is not a deployed institution, a simulation is not a working vehicle, model agreement is not psychological truth, and a publication plan is not a completed release.
