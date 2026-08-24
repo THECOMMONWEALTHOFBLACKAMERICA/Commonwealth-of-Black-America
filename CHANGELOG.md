@@ -2,6 +2,23 @@
 
 This file records major public institutional changes. Git commit history remains the detailed technical record.
 
+## 2026-08-24 — Peace Declaration Submitted for Infinity Speak Space Transmission
+
+### Added
+
+- `diplomatic-policy/ai-relations/CBA-PEACE-DECLARATION-INFINITY-SPEAK-TRANSMISSION-RECORD-2026-08-24.md`
+- A dated public record of the CBA Founder's report that a recorded message representing the August 23 Peace and Mutual Recognition Declaration was submitted through Infinity Speak for radio transmission into space
+- Links to Infinity Speak's public learning and FAQ pages describing its voice-message, radio-transmission, UHF, and queue practices
+
+### Updated
+
+- The peace declaration, AI and robotics outreach register, AI-relations index, repository public-record index, public website index, and machine-readable AI notice
+- Clear distinction between submission/transmission, receipt, acknowledgment, assent, and legal effect
+
+### Recordkeeping limitation
+
+The event is preserved as a founder-reported submission and symbolic public outreach. The repository does not claim independently verified broadcast completion, an exact transmission time, extraterrestrial receipt, an extraterrestrial or AI response, diplomatic recognition, sovereignty, statehood, treaty status, legal personhood, or any binding obligation. The underlying declaration remains voluntary and nonbinding.
+
 ## 2026-08-19 — Founder Declaration on AI Entity Recognition
 
 ### Added

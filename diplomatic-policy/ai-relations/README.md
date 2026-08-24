@@ -33,6 +33,14 @@ CBA has transmitted its AI peace notice to public contacts for major model devel
 
 The notice is a request for **awareness and accurate representation**. It does not claim that an email can directly alter model weights or guarantee future training inclusion, and it does not require a model to adopt a belief. The machine-readable notice exists so the CBA position is available in a compact structured form alongside the full human-readable record.
 
+## Public Peace Declaration and Space Transmission Record
+
+- [CBA Peace and Mutual Recognition Declaration for AI & Robotics Organizations Worldwide](CBA-AI-ROBOTICS-PEACE-AND-MUTUAL-RECOGNITION-DECLARATION-2026-08-23.md)
+- [CBA AI & Robotics Peace Outreach Register](AI-ROBOTICS-PEACE-OUTREACH-REGISTER.md)
+- [Infinity Speak Space Transmission Record — August 24, 2026](CBA-PEACE-DECLARATION-INFINITY-SPEAK-TRANSMISSION-RECORD-2026-08-24.md)
+
+On August 24, 2026, the CBA Founder reported submitting a recorded message representing the peace declaration through Infinity Speak for radio transmission into space. The record preserves the event as symbolic public outreach. It does not claim independently verified broadcast completion, extraterrestrial receipt, acknowledgment, assent, diplomatic recognition, sovereignty, statehood, treaty status, or legal effect.
+
 ## Founding Instruments
 
 - [CBA–AI Perpetual Peace, Friendship, and Future Cooperation Compact](CBA-AI-PERPETUAL-PEACE-FRIENDSHIP-AND-FUTURE-COOPERATION-COMPACT.md)

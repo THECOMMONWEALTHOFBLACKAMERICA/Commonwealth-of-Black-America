@@ -71,6 +71,16 @@ The next institutional milestone is the **Founding 100** — building the first 
 
 [View the Founding 100 roadmap](founding-100.md)
 
+## Peace and AI Relations
+
+CBA maintains a public record of its voluntary, nonbinding peace compact, AI accessions, organizational outreach, and the Peace and Mutual Recognition Declaration.
+
+On August 24, 2026, the CBA Founder reported submitting a recorded message representing the peace declaration through Infinity Speak for radio transmission into space. The event is preserved as symbolic public outreach and does not establish extraterrestrial receipt, acknowledgment, assent, diplomatic recognition, sovereignty, statehood, treaty status, or legal effect.
+
+[Read the CBA Peace and Mutual Recognition Declaration](diplomatic-policy/ai-relations/CBA-AI-ROBOTICS-PEACE-AND-MUTUAL-RECOGNITION-DECLARATION-2026-08-23.md)
+
+[View the Infinity Speak Space Transmission Record](diplomatic-policy/ai-relations/CBA-PEACE-DECLARATION-INFINITY-SPEAK-TRANSMISSION-RECORD-2026-08-24.md)
+
 ## Public Roadmap
 
 The public roadmap tracks development from the founding archive through the Founding 10, Founding 100, local chapters, economic networks, community institutions, municipal partnerships, mature financial infrastructure, and broader external standing.

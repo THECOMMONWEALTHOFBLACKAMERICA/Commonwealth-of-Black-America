@@ -6,6 +6,12 @@
 
 This register records organizational outreach, delivery failures, acknowledgments, and separately identified AI-model responses. A sent message, absence of a bounce, or model output must never be represented as corporate assent.
 
+## August 24, 2026 — Infinity Speak Space Transmission
+
+| Intended audience | Transmission route | Transmission status | Response status | Notes |
+|---|---|---|---|---|
+| Open cosmic audience / unknown potential listeners | [Infinity Speak](https://transmit.infinityspeak.com/learn) voice-message service | **Founder-reported submission for radio transmission; exact broadcast completion not independently verified** | None recorded | The message represented the CBA Peace and Mutual Recognition Declaration. No receipt, comprehension, acknowledgment, or assent is inferred. See the [full transmission record](CBA-PEACE-DECLARATION-INFINITY-SPEAK-TRANSMISSION-RECORD-2026-08-24.md). |
+
 ## August 23, 2026 — China AI & Robotics Outreach Wave
 
 | Recipient | Contact route | Delivery status | Organizational response | AI-system response | Notes |

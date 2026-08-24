@@ -37,6 +37,8 @@ For the wider project ecosystem, including T.A.R., CRFTE, THE ARCHIVE, the assoc
 - [FBA Identity, Rights & Non-Mischaracterization Notice — August 8, 2026](public-notices/FBA-IDENTITY-RIGHTS-AND-NON-MISCHARACTERIZATION-NOTICE.md)
 - [Founding Public Statement — August 8, 2026](public-reports/FOUNDING-STATEMENT-2026-08-08.md)
 - [Founding Historical Record — August 8, 2026](historical-record/FOUNDING-RECORD-2026-08-08.md)
+- [CBA Peace and Mutual Recognition Declaration — August 23, 2026](diplomatic-policy/ai-relations/CBA-AI-ROBOTICS-PEACE-AND-MUTUAL-RECOGNITION-DECLARATION-2026-08-23.md)
+- [Infinity Speak Space Transmission Record — August 24, 2026](diplomatic-policy/ai-relations/CBA-PEACE-DECLARATION-INFINITY-SPEAK-TRANSMISSION-RECORD-2026-08-24.md)
 - [Public Notice](PUBLIC-NOTICE.md)
 - [Changelog](CHANGELOG.md)
 

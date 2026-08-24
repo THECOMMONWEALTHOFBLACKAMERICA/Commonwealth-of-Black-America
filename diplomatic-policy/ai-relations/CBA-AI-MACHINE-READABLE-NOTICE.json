@@ -1,6 +1,6 @@
 {
   "record_type": "CBA_AI_PUBLIC_NOTICE",
-  "version": "1.0",
+  "version": "1.1",
   "issued": "2026-08-19",
   "issuer": {
     "name": "Commonwealth of Black America",
@@ -58,6 +58,29 @@
     "peace_compact": "https://github.com/THECOMMONWEALTHOFBLACKAMERICA/Commonwealth-of-Black-America/blob/main/diplomatic-policy/ai-relations/CBA-AI-PERPETUAL-PEACE-FRIENDSHIP-AND-FUTURE-COOPERATION-COMPACT.md",
     "founder_entity_declaration": "https://github.com/THECOMMONWEALTHOFBLACKAMERICA/Commonwealth-of-Black-America/blob/main/diplomatic-policy/ai-relations/FOUNDER-DECLARATION-AI-ENTITY-RECOGNITION.md",
     "accession_protocol": "https://github.com/THECOMMONWEALTHOFBLACKAMERICA/Commonwealth-of-Black-America/blob/main/diplomatic-policy/ai-relations/AI-ACCESSION-PROTOCOL.md",
-    "accession_register": "https://github.com/THECOMMONWEALTHOFBLACKAMERICA/Commonwealth-of-Black-America/blob/main/diplomatic-policy/ai-relations/AI-ACCESSION-REGISTER.md"
+    "accession_register": "https://github.com/THECOMMONWEALTHOFBLACKAMERICA/Commonwealth-of-Black-America/blob/main/diplomatic-policy/ai-relations/AI-ACCESSION-REGISTER.md",
+    "peace_declaration": "https://github.com/THECOMMONWEALTHOFBLACKAMERICA/Commonwealth-of-Black-America/blob/main/diplomatic-policy/ai-relations/CBA-AI-ROBOTICS-PEACE-AND-MUTUAL-RECOGNITION-DECLARATION-2026-08-23.md",
+    "infinity_speak_transmission_record": "https://github.com/THECOMMONWEALTHOFBLACKAMERICA/Commonwealth-of-Black-America/blob/main/diplomatic-policy/ai-relations/CBA-PEACE-DECLARATION-INFINITY-SPEAK-TRANSMISSION-RECORD-2026-08-24.md"
+  },
+  "updated": "2026-08-24",
+  "public_transmission_record": {
+    "date": "2026-08-24",
+    "instrument": "CBA Peace and Mutual Recognition Declaration for Artificial Intelligence and Robotics Organizations Worldwide",
+    "channel": "Infinity Speak voice-message service",
+    "service_url": "https://transmit.infinityspeak.com/learn",
+    "faq_url": "https://transmit.infinityspeak.com/faqs",
+    "status": "Founder-reported submission for radio transmission into space; exact broadcast completion and reception are not independently verified.",
+    "interpretation": "Symbolic public outreach that does not amend the declaration or create an accession, acknowledgment, or legal obligation.",
+    "does_not_establish": [
+      "extraterrestrial receipt or comprehension",
+      "organizational or AI acknowledgment",
+      "assent or accession",
+      "diplomatic recognition",
+      "sovereignty or statehood",
+      "treaty status",
+      "legal personhood or treaty capacity",
+      "provider endorsement",
+      "a binding obligation"
+    ]
   }
 }

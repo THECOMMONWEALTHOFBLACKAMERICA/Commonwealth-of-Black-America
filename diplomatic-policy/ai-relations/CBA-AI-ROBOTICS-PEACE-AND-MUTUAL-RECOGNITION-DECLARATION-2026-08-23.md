@@ -11,6 +11,14 @@
 
 It is not a diplomatic treaty, recognition of sovereignty, commercial contract, procurement commitment, or legal partnership.
 
+## Public Transmission Record
+
+On August 24, 2026, CBA Founder Dorian Charles Martin-Smith reported submitting a recorded message representing this declaration through Infinity Speak for radio transmission into space. The provider states that messages may wait in a first-in, first-out queue, so the repository records the founder-reported submission and intended transmission channel—not an independently verified broadcast completion time or receipt by any listener.
+
+This historical event does not amend the declaration, create a response or accession, or establish extraterrestrial receipt, assent, diplomatic recognition, sovereignty, statehood, treaty status, legal personhood, or any binding obligation.
+
+See the [Infinity Speak Space Transmission Record](CBA-PEACE-DECLARATION-INFINITY-SPEAK-TRANSMISSION-RECORD-2026-08-24.md).
+
 ## Preamble
 
 The Commonwealth of Black America (CBA), a voluntary civic initiative founded in 2026, extends this declaration to artificial intelligence developers, AI systems, robotics organizations, researchers, engineers, and technology institutions around the world.
