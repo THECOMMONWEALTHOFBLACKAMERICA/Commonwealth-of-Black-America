@@ -23,11 +23,16 @@ T.A.R. is designed as source-aware knowledge infrastructure with provenance, wor
 
 ## CRFTE / CRTFE Atmospheric Electromagnetic Propulsion Research
 
-**Type:** Conceptual / reduced-order propulsion research program  
+**Type:** Experimental plasma-flow / atmospheric electromagnetic propulsion research program  
 **Repository:** https://github.com/THECOMMONWEALTHOFBLACKAMERICA/CRFTE  
+**Current experimental architecture:** V0.3 P3 optimization and scaling campaign  
 **Standalone website:** not yet published.
 
-The project studies a pre-ionized atmospheric-flow + traveling electromagnetic field + Lorentz-force momentum-transfer concept. No working lift hardware has been demonstrated. Vehicle-scale claims remain contingent on experimental conductivity and power measurements.
+CRTFE studies a pre-ionized atmospheric-flow + traveling electromagnetic field + Lorentz-force momentum-transfer architecture. V0.3 P3 has been reengineered from a single scalar-conductivity gate into a staged plasma-flow optimization campaign. It maps excitation method, geometry, airflow, residence time, deposited energy, spatial distribution and persistence before selecting an operating point for the V0.4 electromagnetic coupling experiment.
+
+The starting research baseline retains a ~100 mm × 100 mm diagnostic duct, 10/20/30 m/s comparison points, multi-length impedance measurements and spatial flow diagnostics where laboratory capability permits. The model-derived ~60–150 S/m region remains an engineering hypothesis, not a measured result.
+
+A laboratory collaboration brief and OSU meeting packet are maintained in the CRFTE repository. No working lift hardware has been demonstrated. The two-person target aircraft remains a downstream application contingent on experimental plasma-flow, power and electromagnetic-coupling measurements.
 
 ## THE ARCHIVE
 
